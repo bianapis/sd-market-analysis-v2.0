@@ -1,0 +1,50 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRGeneralMarketResearchAnalysisEvaluateInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisUsageRecord;
+import org.bian.dto.CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisRequestRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecord
+ */
+public class CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecord   {
+  private CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisRequestRecord generalMarketResearchAnalysisRequestRecord = null;
+
+  private CRGeneralMarketResearchAnalysisEvaluateInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisUsageRecord generalMarketResearchAnalysisUsageRecord = null;
+
+
+  /**
+   * Get generalMarketResearchAnalysisRequestRecord
+   * @return generalMarketResearchAnalysisRequestRecord
+  **/
+
+  public CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisRequestRecord getGeneralMarketResearchAnalysisRequestRecord() {
+    return generalMarketResearchAnalysisRequestRecord;
+  }
+
+  public void setGeneralMarketResearchAnalysisRequestRecord(CRGeneralMarketResearchAnalysisRequestInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisRequestRecord generalMarketResearchAnalysisRequestRecord) {
+    this.generalMarketResearchAnalysisRequestRecord = generalMarketResearchAnalysisRequestRecord;
+  }
+
+
+  /**
+   * Get generalMarketResearchAnalysisUsageRecord
+   * @return generalMarketResearchAnalysisUsageRecord
+  **/
+
+  public CRGeneralMarketResearchAnalysisEvaluateInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisUsageRecord getGeneralMarketResearchAnalysisUsageRecord() {
+    return generalMarketResearchAnalysisUsageRecord;
+  }
+
+  public void setGeneralMarketResearchAnalysisUsageRecord(CRGeneralMarketResearchAnalysisEvaluateInputModelGeneralMarketResearchAnalysisInstanceRecordGeneralMarketResearchAnalysisUsageRecord generalMarketResearchAnalysisUsageRecord) {
+    this.generalMarketResearchAnalysisUsageRecord = generalMarketResearchAnalysisUsageRecord;
+  }
+
+
+}
+

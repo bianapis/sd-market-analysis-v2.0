@@ -1,0 +1,20 @@
+{
+  "generalMarketResearchAnalysisInstanceReference" : "GMRAIR762473",
+  "generalMarketResearchAnalysisEvaluateActionReference" : "GMRAEAR702821",
+  "generalMarketResearchAnalysisEvaluateActionRecord" : {},
+  "generalMarketResearchAnalysisInstanceStatus" : "generalMarketResearchAnalysisInstanceStatus",
+  "generalMarketResearchAnalysisInstanceRecord" : {
+    "generalMarketResearchAnalysisGuidance" : "generalMarketResearchAnalysisGuidance",
+    "generalMarketResearchAnalysisSpecification" : "generalMarketResearchAnalysisSpecification",
+    "generalMarketResearchAnalysisUsageRecord" : {
+      "generalMarketResearchAnalysisImpact" : "generalMarketResearchAnalysisImpact",
+      "generalMarketResearchAnalysisUsage" : "generalMarketResearchAnalysisUsage"
+    },
+    "generalMarketResearchAnalysisType" : "generalMarketResearchAnalysisType",
+    "generalMarketResearchAnalysisRequestRecord" : {
+      "generalMarketResearchAnalysisRequestResult" : "generalMarketResearchAnalysisRequestResult",
+      "marketAnalysisRequestWorkProducts" : "marketAnalysisRequestWorkProducts"
+    },
+    "generalMarketResearchAnalysisAlgorithmReference" : "741690"
+  }
+}

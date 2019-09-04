@@ -1,0 +1,12 @@
+{
+  "requestRecordReference" : "RRR749265",
+  "generalMarketResearchAnalysisRequestActionTaskReference" : "GMRARATR750675",
+  "generalMarketResearchAnalysisRequestActionTaskRecord" : {},
+  "generalMarketResearchAnalysisInstanceRecord" : {
+    "generalMarketResearchAnalysisRequestRecord" : {
+      "generalMarketResearchAnalysisRequestResult" : "generalMarketResearchAnalysisRequestResult",
+      "marketAnalysisRequestWorkProducts" : "marketAnalysisRequestWorkProducts"
+    }
+  },
+  "requestResponseRecord" : {}
+}

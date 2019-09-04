@@ -1,0 +1,51 @@
+{
+  "analysisAlgorithmRetrieveActionTaskReference" : "AARATR791028",
+  "analysisAlgorithmRetrieveActionTaskRecord" : {},
+  "analysisAlgorithmInstanceRecord" : {
+    "analysisAlgorithmRequestRecord" : {
+      "analysisAlgorithmWorkProducts" : "analysisAlgorithmWorkProducts",
+      "analysisAlgorithmRequestResult" : "analysisAlgorithmRequestResult",
+      "analysisAlgorithmRequest" : "analysisAlgorithmRequest"
+    },
+    "analysisAlgorithmUsageRecord" : {
+      "analysisAlgorithmUsage" : "analysisAlgorithmUsage",
+      "analysisAlgorithmImpact" : "analysisAlgorithmImpact"
+    },
+    "analysisAlgorithmGuidance" : "analysisAlgorithmGuidance",
+    "analysisAlgorithmReferencedMarketResearchRecord" : {
+      "generalMarketResearchDirectoryEntryInstanceRecord" : {},
+      "marketResearchReportVersionPeriod" : "marketResearchReportVersionPeriod",
+      "marketResearchReportTypeDefinition" : "marketResearchReportTypeDefinition",
+      "generalMarketResearchDirectoryEntryInstanceReference" : "729008",
+      "marketResearchReport" : {},
+      "marketResearchReportTypeReference" : "712233"
+    },
+    "analysisAlgorithmType" : "analysisAlgorithmType",
+    "analysisAlgorithmSpecification" : "analysisAlgorithmSpecification"
+  },
+  "analysisAlgorithmRetrieveActionResponse" : "analysisAlgorithmRetrieveActionResponse",
+  "analysisAlgorithmInstanceReport" : {
+    "analysisAlgorithmInstanceReport" : {},
+    "analysisAlgorithmInstanceReportParameters" : "analysisAlgorithmInstanceReportParameters",
+    "analysisAlgorithmInstanceReportType" : "analysisAlgorithmInstanceReportType",
+    "analysisAlgorithmInstanceReportRecord" : {}
+  },
+  "generalMarketResearchAnalysisInstanceRecord" : {
+    "generalMarketResearchAnalysisGuidance" : "generalMarketResearchAnalysisGuidance",
+    "generalMarketResearchAnalysisSpecification" : "generalMarketResearchAnalysisSpecification",
+    "generalMarketResearchAnalysisType" : "generalMarketResearchAnalysisType",
+    "generalMarketResearchAnalysisRequestRecord" : {
+      "employeeBusinessUnitReference" : "740967",
+      "generalMarketResearchAnalysisRequestResult" : "generalMarketResearchAnalysisRequestResult",
+      "marketAnalysisRequestWorkProducts" : "marketAnalysisRequestWorkProducts",
+      "generalMarketResearchAnalysisRequest" : "generalMarketResearchAnalysisRequest"
+    },
+    "generalMarketResearchAnalysisAlgorithmReference" : "784762"
+  },
+  "analysisAlgorithmInstanceAnalysis" : {
+    "analysisAlgorithmInstanceAnalysisParameters" : "analysisAlgorithmInstanceAnalysisParameters",
+    "analysisAlgorithmInstanceAnalysisReport" : {},
+    "analysisAlgorithmInstanceAnalysisReportType" : "analysisAlgorithmInstanceAnalysisReportType",
+    "analysisAlgorithmInstanceAnalysisRecord" : {}
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "generalMarketResearchAnalysisExecuteActionTaskRecord" : {},
+  "executeRecordReference" : "ERR747676",
+  "generalMarketResearchAnalysisExecuteActionTaskReference" : "GMRAEATR709192",
+  "executeResponseRecord" : {},
+  "generalMarketResearchAnalysisInstanceRecord" : {
+    "generalMarketResearchAnalysisRequestRecord" : {
+      "generalMarketResearchAnalysisRequestResult" : "generalMarketResearchAnalysisRequestResult",
+      "marketAnalysisRequestWorkProducts" : "marketAnalysisRequestWorkProducts"
+    }
+  }
+}
